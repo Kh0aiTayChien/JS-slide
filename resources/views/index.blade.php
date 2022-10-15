@@ -42,7 +42,7 @@
             <div class="container">
               <div class="row align-items-center" style="height: 100%">
                 <h1 class="display-3 text-center text-light">
-                  Bootstrap 5 Vertical Carousel
+                    DEV CHIEN TEST WEB TO DEPLOY WITH LARAVEL
                 </h1>
               </div>
             </div>
