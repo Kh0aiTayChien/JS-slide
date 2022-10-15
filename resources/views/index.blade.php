@@ -15,7 +15,7 @@
   <link rel="preload" href="https://www.jqueryscript.net/dummy/8.jpg" as="image">
   <link rel="preload" href="https://www.jqueryscript.net/dummy/9.jpg" as="image">
   <link rel="preload" href="https://www.jqueryscript.net/dummy/10.jpg" as="image">
-  <title>Bootstrap 5 Vertical Carousel Example</title>
+  <title>CHIEN TEST WEB TO DEPLOY WITH LARAVEL</title>
   <link rel="icon" type="image/x-icon" href="./images/bootstrap.ico">
 </head>
 
